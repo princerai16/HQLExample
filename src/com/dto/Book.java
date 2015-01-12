@@ -10,7 +10,7 @@ public class Book {
 	private String title;
 	private String author;
 	private String publisher;
-	private Integer price;
+	private Integer  price;
 	
 	public Book() {
 		super();
